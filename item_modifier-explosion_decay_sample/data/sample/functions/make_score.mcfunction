@@ -1,0 +1,2 @@
+scoreboard objectives add count_use_carrot_on_a_stick minecraft.used:carrot_on_a_stick
+scoreboard players set @s count_use_carrot_on_a_stick 0

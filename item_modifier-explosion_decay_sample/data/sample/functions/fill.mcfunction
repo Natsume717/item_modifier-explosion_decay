@@ -1,0 +1,2 @@
+execute as @a[scores={count_use_carrot_on_a_stick=1..}] at @s if entity @s run fill ~-15 ~-1 ~-15 ~15 ~-4 ~15 emerald_block
+execute as @a[scores={count_use_carrot_on_a_stick=1..}] at @s if entity @s run scoreboard players set @s count_use_carrot_on_a_stick 0
