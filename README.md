@@ -1,0 +1,2 @@
+# item_modifier-explosion_decay
+item_modifierの1項目であるexplosion_decayに関するサンプルになります。
