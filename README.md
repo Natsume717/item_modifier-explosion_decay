@@ -1,8 +1,7 @@
 # item_modifier-explosion_decay
 item_modifierの1項目であるexplosion_decayに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】explosion_decayで爆発時のドロップ数を変更【item_modifier】](https://natsumake.com/item_modifier-explosion_decay/)』を参考にしてください。
 
 <h3>概要</h3>
 爆発によるドロップ数を変化させます。
